@@ -1,5 +1,4 @@
 <h1>This repository covers my entire journey of React.</h1>
-<br>
 <h2>There are multiple small projects which are as follows:--</h2>
 
 <ol>
