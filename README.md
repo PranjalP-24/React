@@ -6,6 +6,7 @@
 <li>07-ui-project</li>
 <li>13-notes-application</li>
 <li>17-gallery-project</li>
+<li>19-routing-advanced</li>
 </ol>
 
 
